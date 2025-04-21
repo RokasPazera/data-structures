@@ -1,6 +1,6 @@
-# Algoritmen en klassen
+# Algorithms and classes
 
-## MijnArrayList
+## MyArrayList
 
 Implementation: [MyArrayList](../src/nl/saxion/cds/solution/MyArrayList.java)
 
@@ -853,9 +853,6 @@ Ensures that Dijkstra returns an empty graph when an unknown start node ("X") is
 
 - givenGraphWithoutPaths_whenAddingEdges_confirmDijkstraCalculatesCorrectPaths: 
 Confirms that Dijkstra correctly calculates the shortest paths and their respective edge weights from node "A" to other nodes in the graph.
-
-
-# Technical design My Application
 
 # Technical Design of My Application
 ![img.png](../doc/technicalDesign.png)
