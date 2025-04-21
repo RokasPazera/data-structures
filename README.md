@@ -967,7 +967,3 @@ Prim's algorithm. The primary goal is to find the minimum number of rail connect
 
 - Alternative:
 An alternative approach could involve using a different MST algorithm, such as Kruskal's algorithm, which could be used instead of a graph-based approach. Kruskal's algorithm works by sorting all edges and adding them to the tree while avoiding cycles.
-
-
-## Implementation graphic representation(s)
-non-existent
